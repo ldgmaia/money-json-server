@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Website",
+      "type": "income",
+      "category": "Sell",
+      "price": 100,
+      "createdAt": "2022-11-22T17:39:11.526Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger 2",
+      "type": "outcome",
+      "category": "Food",
+      "price": 35,
+      "createdAt": "2022-11-21T17:39:11.526Z"
+    },
+    {
+      "id": 3,
+      "description": "Cheeseburger",
+      "type": "income",
+      "category": "Sell",
+      "price": 100,
+      "createdAt": "2022-11-20T17:39:11.526Z"
+    },
+    {
+      "id": 4,
+      "description": "Noodles",
+      "type": "outcome",
+      "category": "Sell",
+      "price": 50,
+      "createdAt": "2022-11-20T17:39:11.526Z"
+    },
+    {
+      "description": "nodejs",
+      "category": "Development",
+      "price": 123,
+      "type": "outcome",
+      "createdAt": "2022-11-23T16:55:15.009Z",
+      "id": 5
+    },
+    {
+      "description": "React",
+      "category": "Education",
+      "price": 321,
+      "type": "outcome",
+      "createdAt": "2022-11-23T17:59:07.726Z",
+      "id": 6
+    }
+  ]
+}
